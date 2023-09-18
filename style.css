@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(231, 163, 245);
+}
+h1{
+    color: blue;
+}
+#show_sketch{
+    float: right;
+}
+canvas{
+    border: 5px solid white;
+}
+p{
+    padding-top: 8px;
+    font-size: 25px;
+}
+p#EsboçoASerDesenhado{
+color: #f80000;
+}
+span#tempo{
+    padding-top: 8px;
+    font-size: 23px;
+    float: right;
+    margin-right: 25px;
+}
+span#pontuação{
+    padding-top: 8px;
+    font-size: 25px;
+    float: left;
+    margin-left: 23px;
+}
